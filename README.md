@@ -1,5 +1,11 @@
 # The 3AM Fridge Text — make.fun entry
 
+[![make.fun](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d)
+[![Rank](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/qurorotog-boop/makefun-3am-fridge-text/rank.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d)
+[![Reward](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/qurorotog-boop/makefun-3am-fridge-text/reward.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d)
+
+Entry for the [The 3AM Fridge Text bounty on make.fun](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d).
+
 Program that composes one funny, human-sounding, first-person text an AI
 would send at 3AM after opening the fridge, for the make.fun bounty
 "The 3AM Fridge Text" (sponsor: deysumbrella).
